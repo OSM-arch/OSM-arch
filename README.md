@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Currently studying **Digital Development** at **ISTA Hay Riad (OFPPT, Morocco)**
+- 🎓 Currently studying **Digital Development** at **CMC TAMESNA (OFPPT, Morocco)**
 - 💡 Interested in **Mobile Development**, **Web Technologies**, and **Project Management**
 - 🎯 My goal: Become a **Full-stack Mobile Developer** and later a **Project Manager**
 - 📚 Currently learning **Python**, **JavaScript**, **PHP**, and **Database Management**
