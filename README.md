@@ -27,11 +27,11 @@ Learning **Mobile Development (Flutter / React Native)** soon!
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussamaelmohtadi&show_icons=true&theme=tokyonight" alt="Oussama's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OSM-arch&show_icons=true&theme=tokyonight" alt="Oussama's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaelmohtadi&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSM-arch&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
