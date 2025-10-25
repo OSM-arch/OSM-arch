@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oussama El Mohtadi</h1>
-<h3 align="center">💻 Digital Development Student | Future Mobile Developer | Passionate about Tech & Innovation</h3>
+<h3 align="center">💻 Digital Development Student | Future Web Developer | Passionate about Tech & Innovation</h3>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently studying **Digital Development** at **CMC TAMESNA (OFPPT, Morocco)**
+- 🎓 Currently studying **Digital Development** at **CMC RABAT (OFPPT, Morocco)**
 - 💡 Interested in **Mobile Development**, **Web Technologies**, and **Project Management**
-- 🎯 My goal: Become a **Full-stack Mobile Developer** and later a **Project Manager**
-- 📚 Currently learning **Python**, **JavaScript**, **PHP**, and **Database Management**
-- 🌱 Using **Elephorm** for continuous learning and practice
-- ⚡ Fun fact: I love turning creative ideas into real digital projects!
+- 🎯 My goal: Become a **Full-stack Web Developer** and later a **Project Manager**
 
 ---
 
@@ -30,10 +27,11 @@
 #### 🧩 Frameworks / Tools
 <p align="center">
   <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img title="Tailwind CSS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="40" height="40"/>
+  <img title="Laravel" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="40" height="40"/>
   <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img title="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40"/>
-  <img title="Chakra UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" width="40" height="40"/>
+  <img title="Chakra UI" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ChakraUI-Dark.svg" width="40" height="40"/>
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
@@ -43,7 +41,7 @@
 <p align="center">
   <img title="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
   <img title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+  <img title="Laravel" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="40" height="40"/>
   <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
   <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
